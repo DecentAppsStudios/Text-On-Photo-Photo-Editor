@@ -1,7 +1,7 @@
 
 <h1>Privacy Policy </h1>
 
-Thank you for downloading Music Player.It is the policy of  Music Player to respect your privacy, 
+Thank you for downloading PixLab Editor.It is the policy of  PixLab Editor to respect your privacy, 
 and the privacy of all users of our applications. 
 This Privacy Policy (the “Policy”) has been established to help you understand our commitment to protecting 
 your privacy, and the steps we take to ensure it.
@@ -9,8 +9,8 @@ your privacy, and the steps we take to ensure it.
 
 <b>No Collection of Personal Information</b>
 
-Music Player does not gather any of your personal information 
-while you are using the Application.Under no circumstances does Music Player collect, download or 
+PixLab Editor does not gather any of your personal information 
+while you are using the Application.Under no circumstances does PixLab Editor collect, download or 
 otherwise make copies of any recordings you make using the Application
 
 <b>General Information Transfer</b>
@@ -22,7 +22,7 @@ You may also share data using the Application’s Share function.
 
 <b>Third-Party Advertisements</b>
 
-You have downloaded OLA Music Player,the Application uses Google, a third party vendor, to serve advertisements 
+You have downloaded OLA PixLab Editor,the Application uses Google, a third party vendor, to serve advertisements 
 in the Application, using the AdMob system . By using the Application, 
 you consent to the delivery of these advertisements and any data collected by Google, as per the 
 Privacy Policy of AdMob.
@@ -36,10 +36,6 @@ This App is for a general audience. This app do not address anyone under the age
 
 The following is a complete listing and description of what functions on the Device are 
 accessed and / or modified by the Application. 
-
-MODIFY AUDIO SETTINGS:
-Allows an application to modify global audio settings.
-
 
 WRITE EXTERNAL STORAGE:
 Allows an application to write to external storage.
